@@ -1,5 +1,4 @@
 .ipynb_checkpoints/
 data-unversioned/
 __pycache__
-sgns.literature.word.bz2
-merge_sgns_bigram_char300.txt.bz2
+chinese_word_vector/
