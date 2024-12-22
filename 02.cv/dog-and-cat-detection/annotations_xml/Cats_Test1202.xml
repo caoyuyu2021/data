@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>Cats_Test1202.png</filename>
+    <size>
+        <width>450</width>
+        <height>297</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>cat</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>62</ymin>
+            <xmax>180</xmax>
+            <ymax>135</ymax>
+        </bndbox>
+    </object>
+</annotation>
