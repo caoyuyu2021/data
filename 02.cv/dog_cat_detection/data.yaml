@@ -1,4 +1,4 @@
-path: ../../../../../data/02.cv/dog_cat_detection
+path: D:/Jupyter notebook/data/02.cv/dog_cat_detection
 train: images/train
 val: images/val
 test: images/test
