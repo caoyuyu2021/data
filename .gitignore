@@ -3,4 +3,5 @@ data-unversioned/
 __pycache__
 chinese_word_vector/
 english_word_vector/
+solar_cell_EL_image/
 .cache/
